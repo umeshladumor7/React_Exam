@@ -1,0 +1,19 @@
+{
+  "rooms": [
+    {
+      "id": "cce7",
+      "name": "Umesh Ladumor",
+      "rno": "jiji",
+      "cource": "sd",
+      "age": "123"
+    },
+    {
+      "id": "cce7",
+      "name": "Umesh Ladumor",
+      "rno": "jiji",
+      "cource": "sd",
+      "age": "124"
+    }
+  ],
+  "reservations": []
+}
